@@ -1,8 +1,8 @@
-# React
+ React
 
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
 
-## 🚀 Features
+ Features
 
 - **React 18** - React version with improved rendering and concurrent features
 - **Vite** - Lightning-fast build tool and development server
@@ -14,12 +14,12 @@ A modern React-based project utilizing the latest frontend technologies and tool
 - **Animation** - Framer Motion for smooth UI animations
 - **Testing** - Jest and React Testing Library setup
 
-## 📋 Prerequisites
+ Prerequisites
 
 - Node.js (v14.x or higher)
 - npm or yarn
 
-## 🛠️ Installation
+ Installation
 
 1. Install dependencies:
    ```bash
@@ -35,7 +35,7 @@ A modern React-based project utilizing the latest frontend technologies and tool
    yarn start
    ```
 
-## 📁 Project Structure
+ Project Structure
 
 ```
 react_app/
@@ -54,7 +54,7 @@ react_app/
 └── vite.config.js      # Vite configuration
 ```
 
-## 🧩 Adding Routes
+ Adding Routes
 
 To add new routes to the application, update the `Routes.jsx` file:
 
@@ -74,7 +74,7 @@ const ProjectRoutes = () => {
 };
 ```
 
-## 🎨 Styling
+ Styling
 
 This project uses Tailwind CSS for styling. The configuration includes:
 
@@ -85,12 +85,12 @@ This project uses Tailwind CSS for styling. The configuration includes:
 - Fluid typography for responsive text
 - Animation utilities
 
-## 📱 Responsive Design
+ Responsive Design
 
 The app is built with responsive design using Tailwind CSS breakpoints.
 
 
-## 📦 Deployment
+ Deployment
 
 Build the application for production:
 
